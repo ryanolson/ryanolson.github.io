@@ -53,10 +53,10 @@ which can be alievated by combining them.
   [custom routes](https://pythonhosted.org/Flask-Classy/#using-custom-routes)
 
 #### Cons:
-- Two issues with pull requests that need to be merged: 
+- Two issues that need to be merged - 
   [Issue #60](https://github.com/apiguy/flask-classy/pull/60) and
   [Issue #61](https://github.com/apiguy/flask-classy/pull/61)
-    * availabe at [ryanolson/flask-classy](https://github.com/ryanolson/flask-classy)
+  availabe at [ryanolson/flask-classy](https://github.com/ryanolson/flask-classy).
     
 ### Flask-Restless
 
@@ -65,6 +65,3 @@ which can be alievated by combining them.
 
 #### Cons
 - Restricted use with SQLAlchemy models
-
-
-
