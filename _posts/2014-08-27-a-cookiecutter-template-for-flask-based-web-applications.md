@@ -1,6 +1,7 @@
 ---
 layout: post
-title: A Cookiecutter template for Flask-based Web Applications
+title: "A Cookiecutter template for Flask-based Web Applications"
+published: true
 ---
 
 Recently, I started a github project 
@@ -45,10 +46,7 @@ The [base project](https://github.com/ryanolson/cookiecutter-webapp) is a
 [cookiecutter](https://github.com/audreyr/cookiecutter) template.  Therefore,
 Step 1 is to create your customized project from the template using cookiecutter.
 
-```
-pip install cookiecutter
-cookiecutter https://github.com/ryanolson/cookiecutter-webapp.git
-```
+{% gist 7eb35dd67646dfe40afc GetStarted %}
 
 You will be asked some basic info about the project you wish to create:
 
