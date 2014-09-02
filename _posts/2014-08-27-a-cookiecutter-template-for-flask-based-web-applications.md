@@ -46,7 +46,7 @@ The [base project](https://github.com/ryanolson/cookiecutter-webapp) is a
 [cookiecutter](https://github.com/audreyr/cookiecutter) template.  Therefore,
 Step 1 is to create your customized project from the template using cookiecutter.
 
-{% gist 7eb35dd67646dfe40afc install-cookiecutter %}
+{% gist 7eb35dd67646dfe40afc install-cookiecutter.sh %}
 
 You will be asked some basic info about the project you wish to create:
 
